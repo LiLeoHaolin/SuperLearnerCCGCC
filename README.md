@@ -24,9 +24,9 @@ This repo contains the following folders, corresponding to the simulation codes 
 
 In each folder, we include the computing codes for all the prediction methods discussed in the paper. The names and descriptions of the files are as follows,
 
-* *dat_gen.r* - data generation.
+* *dat_gen.r* - the code for data generation.
 * *expensive_only.r* - the super learner using the full cohort with inexpensive covariates only.
-* *full_cohort.r* - The super learner assuming the full cohort with available expensive covariates for all subjects.
+* *full_cohort.r* - the super learner assuming the full cohort with available expensive covariates for all subjects.
 * *naive.r* - the naive super learner, with the same candidate learners as the proposed super learner but without considering design weights in the empirical risk. 
 * *proposed.r* - the proposed super learner.
 * *SRS.r* - the super learner using a study sample with expensive covariates assembled through an SRS with the same sample size as the case-cohort/generalized case-cohort design.
