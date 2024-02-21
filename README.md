@@ -1,9 +1,8 @@
 # Computing Codes for the Paper "Super Learner for Survival Prediction in Case-Cohort and Generalized Case-Cohort Studies"
-### Haolin Li, Haibo Zhou, David Couper, and Jianwen Cai
 
 ## Description
 
-This repository contains computing codes for the paper "Super Learner for Survival Prediction in Case-Cohort and Generalized Case-Cohort Studies". Please click [here](https://www.google.com) for the full text of the paper. 
+This repository contains computing codes for the paper "Super Learner for Survival Prediction in Case-Cohort and Generalized Case-Cohort Studies". 
 
 ## Naming Convention 
 
@@ -32,6 +31,3 @@ In each folder, we include the computing codes for all the prediction methods di
 * *SRS.r* - the super learner using a study sample with expensive covariates assembled through an SRS with the same sample size as the case-cohort/generalized case-cohort design.
 
 
-## References
-
-Li, H., Zhou, H., Couper, D., Cai, J. (2023+). Super Learner for Survival Prediction in Case-Cohort and Generalized Case-Cohort Studies. Manuscript Submitted for Publication.
