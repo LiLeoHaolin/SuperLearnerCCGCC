@@ -30,4 +30,7 @@ In each folder, we include the computing codes for all the prediction methods di
 * *proposed.r* - the proposed super learner.
 * *SRS.r* - the super learner using a study sample with expensive covariates assembled through an SRS with the same sample size as the case-cohort/generalized case-cohort design.
 
+## References
+
+Li, H., Zhou, H., Couper, D., & Cai, J. (2025). Super learner for survival prediction in case-cohort and generalized case-cohort studies. Biometrics, 81(4), ujaf155.
 
