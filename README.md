@@ -1,4 +1,4 @@
-# Computing Codes for the Paper "Super Learner for Survival Prediction in Case-Cohort and Generalized Case-Cohort Studies"
+# Computing Code for the Paper "Super Learner for Survival Prediction in Case-Cohort and Generalized Case-Cohort Studies"
 
 ## Description
 
